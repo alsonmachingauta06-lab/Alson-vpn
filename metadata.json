@@ -1,0 +1,7 @@
+{
+  "name": "QuantumShield VPN",
+  "description": "Secure, lightning-fast virtual private network with AI network security advisor and global server selection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
